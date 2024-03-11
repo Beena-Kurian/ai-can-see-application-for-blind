@@ -5,7 +5,7 @@ aICanSee is an innovative application designed to provide assistance and support
 Leveraging the power of AI, this application offers various features to enhance the daily lives of users.
 
 ## Features
-![image](https://github.com/Beena-Kurian/ai-can-see-application-for-blind/assets/159932525/d515961c-a250-4f94-8e75-1c51f64c42f3)
+
 ### GUI Development
 The tkinter library is used for creating the graphical user interface (GUI) of the application. Buttons are defined for different functionalities, making the app user-friendly.
 

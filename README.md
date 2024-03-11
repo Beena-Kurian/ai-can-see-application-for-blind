@@ -27,7 +27,7 @@ The tkinter library is used for creating the graphical user interface (GUI) of t
 - Send emergency messages with your current location to predefined contacts.
 - This is implemented by using whatsapp links and location data, to contact your guardian.
 - You can use other SMS or paid services.
-- 
+  
 ### 5. Object Recognition
 - Capture an image and receive spoken descriptions of objects in the image.(TensorFlow is used along with a pre-trained model from TensorFlow 
    Hub (tfhub.dev) for object recognition.)

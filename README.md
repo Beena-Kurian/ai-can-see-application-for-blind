@@ -45,16 +45,17 @@ The tkinter library is used for creating the graphical user interface (GUI) of t
 #### Set up API keys and credentials:
 1. OpenWeatherMap API key for weather updates.
 2. Gmail credentials for image sharing via email.
-3. Replace placeholder values in the code:
+3. Place an alarm audio file in your working directory and change path accordingly.
+4. Replace placeholder values in the code:
    - Replace add_api_key_here with your OpenWeatherMap API key.
    - Update sender_email, sender_password, and receiver_email with your email credentials.
 ### Run the application:
 `python ai_can_see.ipynb`
 
 ## Usage
-Execute the weather suggestion feature with the "1. Weather" button.
-Capture and send images with the "2. Capture and Send" button (double-tap to capture).
-Find dominant colors in images with the "3. Find Color" button.
-Request emergency assistance with the "4. Help Me" button.
-Use the "5. Tell me the object?" button for object recognition.
-Trigger an emergency alarm with the "6. Emergency Alarm" button (triple-tap to activate).
+- Execute the weather suggestion feature with the "1. Weather" button.
+- Capture and send images with the "2. Capture and Send" button (double-tap to capture).
+- Find dominant colors in images with the "3. Find Color" button.
+- Request emergency assistance with the "4. Help Me" button.
+- Use the "5. Tell me the object?" button for object recognition.
+- Trigger an emergency alarm with the "6. Emergency Alarm" button (triple-tap to activate).
